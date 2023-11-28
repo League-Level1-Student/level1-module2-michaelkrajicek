@@ -31,13 +31,13 @@ public class Smurf {
 	// Papa Smurf wears a red hat, all the others are white.
 	public String getHatColor() {
 		// 3. Fill in this method
-		return "";
+		return "My phrygian cap is red. Also I am a papa smurf so obviously I am a guy. What is a phrygian cap you might ask? idk. If I could provide a picture I would but when you search it up it is one of those weird French revolution hats.";
 	}
 
 	// Smurfette is the only female Smurf.
 	public String isGirlOrBoy() {
 		// 4. Fill in this method
-		return "";
+		return "I am a girl wearing a white phrygian cap ";
 	}
 
 }
